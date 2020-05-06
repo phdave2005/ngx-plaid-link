@@ -72,7 +72,7 @@ export class NgxPlaidLinkButtonComponent implements AfterViewInit {
     buttonText: "Log In To Your Bank Account",
     webhook: "",
     product: ["auth"],
-    className: "plaid-link-button",
+    className: "plaid-link-button test-class",
     countryCodes: ["US"]
   };
 
